@@ -28,8 +28,8 @@ Modern web interface for managing client migrations from legacy systems to the n
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd webapp
+   git clone https://github.com/bini219/fred-migration-webapp
+   cd fred-migration-webapp
    ```
 
 2. **Install dependencies**
